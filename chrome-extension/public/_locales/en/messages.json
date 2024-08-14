@@ -1,10 +1,10 @@
 {
   "extensionDescription": {
-    "description": "Extension description",
-    "message": "Chrome extension boilerplate developed with Vite, React and Typescript"
+    "description": "Chrome Extension to save web content and read it later.",
+    "message": "Chrome Extension to save web content and read it later."
   },
   "extensionName": {
-    "description": "Extension name",
-    "message": "Chrome extension boilerplate"
+    "description": "Reeder",
+    "message": "Reeder"
   }
 }
